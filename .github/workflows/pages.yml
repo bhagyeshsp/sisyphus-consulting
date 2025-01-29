@@ -16,7 +16,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-
+      - name: Check Ruby and Bundler versions
+        run: |
+          ruby --version
+          bundler --version
       - name: Build the Jekyll Site
         run: |
           gem install bundler
