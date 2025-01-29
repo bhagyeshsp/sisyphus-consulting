@@ -12,26 +12,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Setup Pages Dependencies
-        uses: actions/setup-node@v3
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          node-version: '16'
+          ruby-version: '3.2'
+          bundler-cache: true
 
-      - name: Setup Ruby and Bundler
-        run: |
-            ruby --version
-            sudo gem install bundler --user-install
-            export PATH="$HOME/.gem/ruby/3.2.0/bin:$PATH"
-            bundle config set path 'vendor/bundle'
-            bundler --version
-  
       - name: Build the Jekyll Site
         run: |
-            bundle install
-            bundle exec jekyll build -d _site
-      
+          bundle install
+          bundle exec jekyll build
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: _site
+          publish_dir: ./_site
