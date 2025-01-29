@@ -20,7 +20,9 @@ jobs:
       - name: Setup Ruby and Bundler
         run: |
             ruby --version
-            sudo gem install bundler
+            sudo gem install bundler --user-install
+            export PATH="$HOME/.gem/ruby/3.2.0/bin:$PATH"
+            bundle config set path 'vendor/bundle'
             bundler --version
   
       - name: Build the Jekyll Site
