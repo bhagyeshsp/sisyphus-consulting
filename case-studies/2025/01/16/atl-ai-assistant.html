@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>ATL Curriculum AI Assistant</title>
+  <meta name="description" content="Let’s take a use case that addresses struggles of many teachers and schools. We have used Sisyphus Valley School—our prototype application to display this in...">
+
+  
+  
+  <link rel="stylesheet" href="https://github.com/pages/bhagyeshsp/sisyphus-consulting/assets/style.css">
+
+  <link rel="canonical" href="/case-studies/2025/01/16/atl-ai-assistant.html">
+  <link rel="alternate" type="application/rss+xml" title="Sisyphus Consulting" href="/feed.xml">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</head>
+
+
+  <body>
+
+    <header class="flex justify-between border-bottom-thick px-2">
+  <div class="flex justify-start items-center sm-width-full py-1">
+    <a class="link-primary text-accent" href="/">
+      Sisyphus Consulting
+    </a>
+  </div>
+  <div class="flex justify-end items-center sm-width-full">
+    <ul class="list-reset py-1 mr-1">
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li class="inline-block">
+          <a class="link-primary mr-2 mr-lg-0 ml-lg-2" href="/consultancy/">
+            Consultancy
+          </a>
+        </li>
+        
+        
+        
+        <li class="inline-block">
+          <a class="link-primary mr-2 mr-lg-0 ml-lg-2" href="/case-studies/">
+            Case Studies
+          </a>
+        </li>
+        
+        
+        
+        <li class="inline-block">
+          <a class="link-primary mr-2 mr-lg-0 ml-lg-2" href="/about/">
+            About
+          </a>
+        </li>
+        
+        
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="border-bottom-thin inline-block mt-3 mb-2" itemprop="name headline">ATL Curriculum AI Assistant</h1>
+  
+  <div class="prose" itemprop="articleBody">
+      <p>Let’s take a use case that addresses struggles of many teachers and schools. We have used Sisyphus Valley School—our prototype application to display this integration.</p>
+
+<p>Atal Tinkering Lab (ATL) is an initiative by Government of India. These labs are equipped with advanced STEM resources to foster creativity and design thinking. The government also provides a three-level curriculum to guide schools in implementing ATL activities. Take a look at the <a href="https://www.aim.gov.in/atl-tinkering-cirriculam.php">curriculum files</a>.</p>
+
+<h2 id="the-challenge">The challenge</h2>
+<p>There are 10,000 ATL labs installed across India. This makes it difficult to prescribe a curriculum that can cater to a diverse range of schools. This is especially true for teachers. Teachers, with varying levels of competency, often need a helping hand. With their overwhelming day-to-day duties, most teachers need assistance with:</p>
+
+<ol>
+  <li>Generating fresh ideas to implement the ATL curriculum lessons</li>
+  <li>Aligning activities with the ATL curriculum</li>
+  <li>Modifying activities in the context of the school, students’ prior knowledge, available material, time constraint etc.</li>
+</ol>
+
+<h2 id="our-approach">Our approach</h2>
+<p>We came up with the approach to loop in an AI assistant. An assistant specifically trained on the ATL curriculum. We integrated this assistant with our workflow in a way that the teacher doesn’t need to leave their workspace or provide additional context.</p>
+
+<p>Here’s how the idea works as illustrated in the sketch below:</p>
+<ol>
+  <li>The teacher provides their requirements for activities. The additional context is automatically attached with their message and sent to the AI assistant to process.</li>
+  <li>Next, once the AI assistant receives the message from the teacher along with the context, it refers to its ATL curriculum knowledge and returns a response.</li>
+</ol>
+
+<div class="image-container-caption">
+  <img src="/assets/ATL_AI_Assistant_Flowchart.png" alt="ATL curriculum AI assistant workflow" />
+  <p>How the ATL curriculum AI assistant works?</p>
+</div>
+
+<h2 id="in-action">In action</h2>
+<p>Check out the PDF slides to see our approach in action.</p>
+
+<p>As you review the slides, here are some key highlights:</p>
+
+<p>(Slide-4) When the teacher types their message in “Compose message” box, the AI will receive all the information as additional context, except for “Session Detail”. Session Detail box is provided for teacher to store information related to session such as session plans, activities etc.</p>
+
+<p>(Slide-6) Once the teacher has sent the message, there is “Sent! AI is thinking…” indicator is being displayed. This is where the AI assistant is working and referring to the curriculum files provided to it in advance.</p>
+
+<p>(Slide-9) In real-life classrooms, teachers may not always have sufficient material at hand or may want to adapt ideas from other sessions. They would want to have the freedom to build upon the already generated ideas. That’s exactly what is happening here. A teacher can make “follow up” requests. For example, in this slide, the teacher asks to use clay and popsicle sticks instead of using cardboard.</p>
+
+<div style="width: 100%; height: 0; padding-bottom: 100%; position: relative;">
+  <object data="/assets/pdfs/sisyphus_school_ATL_AI.pdf" type="application/pdf" style="position: absolute; width: 100%; height: 100%;"></object>
+</div>
+
+<h2 id="what-makes-this-integration-unique">What makes this integration unique?</h2>
+<p>A tech-savvy teacher could navigate to free AI tools like ChatGPT to seek help. But there are some design and culture related requirements for teachers to take action:</p>
+<ul>
+  <li>The teacher should be motivated enough to log into the free ChatGPT or similar tool</li>
+  <li>The school culture should be conducive for the teacher to use such tools publicly and proudly</li>
+  <li>The teacher would have to provide the additional context every time</li>
+  <li>The ideas generated by the AI should be logged to build idea bank</li>
+</ul>
+
+<p>If we wait for our already-busy teachers to take initiative, the students may miss out on benefits of AI-aided learning.</p>
+
+<p>You would have realized that this setup is unique in itself because:</p>
+<ul>
+  <li>It decreases the friction for a teacher to access AI assistant</li>
+  <li>Thanks to its in-built design, the teacher doesn’t have to jump any more loops to get personalized help</li>
+  <li>The help is always hyper-contextual due to built-in context sharing</li>
+  <li>The organization recognizes the usefulness of the AI assistants and encourages teachers to make the learning more effective</li>
+  <li>The setup saves all past ideas interacted on a specific topic. Providing a gold-mine of idea bank for future</li>
+</ul>
+
+<p><strong>Why It Matters</strong><br />
+This project shows how meaningful AI integration can transform traditional processes. It wasn’t about using AI for the sake of it—it was about embedding AI into the workflow in a way that felt natural and valuable.</p>
+
+<p>If you’re considering how AI can enhance your business processes, we can help you uncover opportunities for impactful integration. Take a closer look at our approach to meaningful AI adoption.</p>
+
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  <!-- Use if you want to show previous and next for posts within a category. -->
+
+
+
+<div class="post-navigation">
+
+
+  <a class="post-nav-item no-underline border-top-thin py-1 block" href="https://github.com/pages/bhagyeshsp/sisyphus-consulting/case-studies/2025/01/16/data-analyst-ai.html">
+    <span class="h5 bold text-accent">Next</span>
+    <p class="bold h3 link-primary mb-1">Data Analyst AI Assistant</p>
+    <p>Let's take a use case that addresses the hidden struggles and frustrations of many business owners and managers. We have...</p>
+  </a>
+
+</div>
+</div>
+
+    </div>
+
+    <div class="border-top-thin mt-2 mt-lg-4">
+  <div class="mx-auto mt-2 mb-2 mr-2 ml-2">
+    <div class="flex justify-center h5 bold">
+      <p class="mr-1">©  <span id="current-year"> </span><span class="border-top-thick border-right-thick border-bottom-thick border-left-thick ml-1"> Sisyphus Consulting Pvt. Ltd.</span></p>
+      <p class="mr-1 prose">
+        <a onclick="copyEmail()" class="copy-btn">
+          Contact.
+            <span class="tooltip">Click to copy email</span>
+        </a>
+      </p>
+      <p class="mr-1 prose"> <a href="">Privacy.</a> </p>
+      <p class="mr-1 prose"> <a href="/terms/">Terms.</a> </p>
+    </div>
+    
+    <div class="flex justify-center">
+      <p class="sm-width-full py-2 mb-0">
+        Sisyphus Consulting is open 9a-6p IST, Monday through Friday.
+      </p>
+    </div>
+
+  <script>
+    document.getElementById("current-year").textContent =
+      new Date().getFullYear();
+
+      function copyEmail() {
+          navigator.clipboard.writeText('contact@sisyphusconsulting.org');
+          const btn = document.querySelector('.copy-btn');
+          const tooltip = btn.querySelector('.tooltip');
+          tooltip.textContent = 'Copied!';
+          setTimeout(() => tooltip.textContent = 'Click to copy', 2000);
+        }
+  </script>
+</div>
+
+
+  </body>
+
+</html>
