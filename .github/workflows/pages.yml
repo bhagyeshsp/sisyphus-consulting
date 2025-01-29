@@ -20,7 +20,7 @@ jobs:
       - name: Setup Ruby and Bundler
         run: |
             ruby --version
-            gem install bundler
+            sudo gem install bundler
             bundler --version
   
       - name: Build the Jekyll Site
