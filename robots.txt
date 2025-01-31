@@ -1,1 +1,1 @@
-Sitemap: https://bhagyeshsp.github.io/sisyphus-consulting/sitemap.xml
+Sitemap: https://sisyphusconsulting.org/sitemap.xml
