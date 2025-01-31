@@ -49,7 +49,7 @@ We don't bid for work or write proposal documents. Once we have had a verbal agr
 My name is Bhagyesh Pathak and I'm responsible for everything that happens at our consultancy. I kind of look like this sketch.
 
 <div class="image-container-caption img-extra-small">
-  <img src="/assets/bhagyesh_pathak.jpg" alt="Bhagyesh Pathak's sketch">
+  <img src="/assets/images/bhagyesh_pathak.jpg" alt="Bhagyesh Pathak's sketch">
 </div>
 
 In the past decade, I have worked with some of the best people at different start-ups and non-profit organizations in the field of education.

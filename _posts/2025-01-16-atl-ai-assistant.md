@@ -24,7 +24,7 @@ Here's how the idea works as illustrated in the sketch below:
 2. Next, once the AI assistant receives the message from the teacher along with the context, it refers to its ATL curriculum knowledge and returns a response.
 
 <div class="image-container-caption">
-  <img src="/assets/ATL_AI_Assistant_Flowchart.png" alt="ATL curriculum AI assistant workflow">
+  <img src="/assets/images/ATL_AI_Assistant_Flowchart.png" alt="ATL curriculum AI assistant workflow">
   <p>How the ATL curriculum AI assistant works?</p>
 </div>
 

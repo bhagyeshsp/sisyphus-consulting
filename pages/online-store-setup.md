@@ -37,8 +37,8 @@ During this stage, we work on one group of elements, instead of simultaneously w
 This way, after each iteration we will have something that works than many things that don't work. (Well-articulated by Ryan Singer in [Shape Up](https://basecamp.com/shapeup/3.2-chapter-11))
 
 <div class="image-container">
-  <img src="/assets/Nothing_works.png" alt="Nothing works">
-  <img src="/assets/Something_works.png" alt="Something works">
+  <img src="/assets/images/Nothing_works.png" alt="Nothing works">
+  <img src="/assets/images/Something_works.png" alt="Something works">
 </div>
 
 ### 6. Handover

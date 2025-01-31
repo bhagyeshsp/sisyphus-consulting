@@ -23,7 +23,7 @@ We figured out a way where a business owner can only focus on their business que
 We trained AI assistant (let's call it Data Analyst AI) on our database schema, i.e. the database structure. This means, the AI doesn't have access to the data, just its structure. Look at the sample structure of a Parent's data element for the Sisyphus Valley School in the following document.
 
 <div class="image-container-caption">
-  <img src="/assets/Sisyphus_ParentT_schema.png" alt="Parent data schema">
+  <img src="/assets/images/Sisyphus_ParentT_schema.png" alt="Parent data schema">
   <p>AI has this type of schema information with it</p>
 </div>
 
@@ -34,14 +34,14 @@ In this prototype, the software we are using is Microsoft Access. It uses Struct
 And a business owner or a manager doesn't need to learn SQL to analyze their data. They can simply ask their business question and the AI will create a SQL query for the system to process.
 
 <div class="image-container-caption">
-  <img src="/assets/data_analyst_assistant_ai_screen.png" alt="Data Analyst Assistant AI Screen">
+  <img src="/assets/images/data_analyst_assistant_ai_screen.png" alt="Data Analyst Assistant AI Screen">
   <p>Data Analyst Assistant AI Screen</p>
 </div>
 
 The system generates a raw table in answer to our question. We can ask any question related to our data and it will present the first-hand data, without any bias, filter or assumptions.
 
 <div class="image-container-caption">
-  <img src="/assets/data_analyst_assistant_ai_result.png" alt="Data Analyst Assistant AI Result">
+  <img src="/assets/images/data_analyst_assistant_ai_result.png" alt="Data Analyst Assistant AI Result">
   <p>Data Analyst Assistant AI Result</p>
 </div>
 

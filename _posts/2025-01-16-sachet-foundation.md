@@ -8,7 +8,7 @@ tag: Data System
 ## Data system design for adolescent children
 
 <div class="image-container-caption">
-  <img src="/assets/sachet_homescreen.png" alt="Sachet Foundation Data System Home Screen">
+  <img src="/assets/images/sachet_homescreen.png" alt="Sachet Foundation Data System Home Screen">
   <p>Sachet Foundation's Data System Home Screen</p>
 </div>
 

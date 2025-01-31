@@ -24,7 +24,7 @@ By the end of this step, we would have developed a shared understanding of:
 - What information different people need to make decisions
 
 <div class="image-container-caption">
-  <img src="/assets/TGMM_Blind_Elephant.png" alt="Business processes in a nutshell">
+  <img src="/assets/images/TGMM_Blind_Elephant.png" alt="Business processes in a nutshell">
   <p>Business processes in a nutshell</p>
 </div>
 
@@ -40,8 +40,8 @@ We begin developing software system. We group the relevant parts of the software
 This way, after each iteration we will have something that works than many things that don't work. (Well-articulated by Ryan Singer in [Shape Up](https://basecamp.com/shapeup/3.2-chapter-11))
 
 <div class="image-container">
-  <img src="/assets/Nothing_works.png" alt="Nothing works">
-  <img src="/assets/Something_works.png" alt="Something works">
+  <img src="/assets/images/Nothing_works.png" alt="Nothing works">
+  <img src="/assets/images/Something_works.png" alt="Something works">
 </div>
 
 ### 6. Handover
