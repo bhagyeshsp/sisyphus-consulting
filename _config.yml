@@ -35,9 +35,8 @@ include:
   - _sass
   - assets
 plugins:
-  - jekyll-livereload
   - jekyll-sitemap    # Helps with SEO and site indexing
 # Cache settings
-future: true          # Allows future dated posts
+future: false          # Allows future dated posts
 strict_front_matter: true  # Ensures front matter is properly formatted
 incremental: false    # Disable incremental building
