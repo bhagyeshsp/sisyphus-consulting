@@ -38,7 +38,7 @@ This way, after each iteration we will have something that works than many thing
 
 <div class="image-container">
   <img src="/assets/Nothing_works.png" alt="Nothing works">
-  <img src="/assets/something_works.png" alt="Something works">
+  <img src="/assets/Something_works.png" alt="Something works">
 </div>
 
 ### 6. Handover
