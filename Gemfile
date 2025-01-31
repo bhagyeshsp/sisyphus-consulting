@@ -1,9 +1,9 @@
 source "https://rubygems.org"
-
-# Core gems needed for GitHub Pages
-gem "jekyll"
-gem "github-pages", group: :jekyll_plugins
-# Development-only gems
+group :jekyll_plugins do
+  gem "jekyll"
+  gem "github-pages"
+  gem "jekyll-sitemap"
+end
 group :development do
-  gem "jekyll-livereload"
+  gem "jekyll-livereload"  # Only used locally
 end

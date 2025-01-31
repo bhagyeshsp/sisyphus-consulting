@@ -315,6 +315,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-livereload
+  jekyll-sitemap
 
 BUNDLED WITH
    2.5.22
