@@ -4,7 +4,6 @@ title: Online Store Setup
 permalink: /online-store-setup/
 show_in_nav: false
 ---
-
 We work with only one technology platform to develop online stores: Shopify. It is a fantastic platform for businesses of all types and size. What we love the most about it is its minimal technology debt. This means, you don't need to worry about hiring developers, maintaining the platform or worrying about security. Shopify takes care of everything, so that you can focus on only one thing that matters: growing your business.
 
 Here's the process we follow to setup an online store:

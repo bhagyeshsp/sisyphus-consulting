@@ -5,9 +5,6 @@ permalink: /illustration-design-process/
 show_in_nav: false
 order: 0
 ---
-
-# Illustration design process
-
 Every illustration work is unique. So, we treat each client without assuming their context, use-case and future plans. Here's how we approach it:
 
 ### 1. Understanding the context

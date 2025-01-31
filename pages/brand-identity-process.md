@@ -5,7 +5,6 @@ permalink: /brand-identity-design-process/
 show_in_nav: false
 order: 0
 ---
-
 Contrary to prevalent belief, a business's Logo is not their brand identity. And still, many budding and established businesses spend exuberant amount of time and money on their logo and collateral designs. Logo, collaterals, marketing materials---all these *emerge* from their brand's identity but they're *not* brand's identity.
 
 When we begin working together, we try to understand how you want to position yourself in the customer's mind. What type of customers you want to attract and what type of customers you want to pass on. Weaving everything together, we deliver the visual language guidelines for your brand---effectively, turning it into your brand identity.
