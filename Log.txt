@@ -1,3 +1,6 @@
+To do:
+- Add "author" to all case-study posts and display them in the post
+
 
 I have disabled a few utility classes in the utilities.scss related to floats. Need to comb through all includes and layout files to convert the dependent classes to modern styles.
 
