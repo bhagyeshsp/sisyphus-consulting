@@ -59,7 +59,7 @@ The running theme during all of the engagements have been: process optimization 
 Since you're on this page, you may want to know what else there's to know.
 
 Did you check our [case studies](/case-studies/)?
-What about [consultancy services](/consultancy-services/)?
+What about [consultancy services](/consultancy/)?
 Been there, done that? Okay, if you have nothing else on your agenda, you can join my free email letters here. I don't spam or sell things. It is all about ideas, if that's your thing.
 
 {% include newsletter.html %}
