@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 show_in_nav: true
-order: 3
+order: 4
 ---
 
 Sisyphus Consulting is a small tech and design consultancy.

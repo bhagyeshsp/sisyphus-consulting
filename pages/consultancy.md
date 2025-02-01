@@ -22,7 +22,7 @@ We specialize in setting up data systems and online stores for small and medium 
 We take up this work from scratch. Many businesses rely on Excel sheets or generic software for data storage, analysis and workflows. There is nothing wrong with using them in the early stages. But there comes a time to move beyond Excel. When your intuition tells you that it's time to have a robust, user-friendly way to manage your workflows, we're here to help you through our [data system design process]({{ '/data-system-design-process' | relative_url }})
 
 ### Meaningful AI-integration
-Speaking of data system design, no business-owner wants to be left behind when it comes to using AI. Everyone has a question on their mind whether they're too early or too late in considering AI's help in their business processes. In short, a dilemma of [To AI or not to AI.]({{'/essays/to-ai-or-not-to-ai' | relative_url }})
+Speaking of data system design, no business-owner wants to be left behind when it comes to using AI. Everyone has a question on their mind whether they're too early or too late in considering AI's help in their business processes. In short, a dilemma of [To AI or not to AI.]({{ site.baseurl }}{% post_url 2025-01-01-to-ai-or-not-to-ai %})
 We have understood that more or less, every business can benefit from *meaningful* integration of AI in their work. Not just integration, it has to fit naturally in your business processes. Look at our [case studies]({{'/case-studies' | relative_url}}) on meaningful integration of AI.
 
 ### Online Store Setup
