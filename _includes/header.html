@@ -5,7 +5,7 @@
     </a>
   </div>
   <div class="flex justify-end items-center sm-width-full">
-    <ul class="list-reset py-1 mr-1">
+    <ul class="list-reset py-1 mr-1 header-media-case">
       {% assign sorted_pages = site.pages | sort: "order" %}
       {% for my_page in sorted_pages %}
         {% if my_page.show_in_nav != false and my_page.title %}

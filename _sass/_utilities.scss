@@ -418,6 +418,11 @@ justify-content: center;
       max-width: 100% !important;
     }
   }
+
+  .header-media-case {
+    display: flex;
+    flex-direction: column;
+  }
 }
 
 // Styles the tags on case studies page
