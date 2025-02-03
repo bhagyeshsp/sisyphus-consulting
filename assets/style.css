@@ -356,7 +356,8 @@ white-space: normal; /* Allow wrapping of text */ overflow: visible; /* Prevent 
   .image-container { flex-direction: column; }
   .image-container img { max-width: 100%; }
   .image-container-caption { max-width: 100%; }
-  .image-container-caption img { max-width: 100% !important; } }
+  .image-container-caption img { max-width: 100% !important; }
+  .header-media-case { display: flex; flex-direction: column; } }
 .tag-badge { display: inline-block; padding: 0.2em 0.5em; border-radius: 12px; background-color: #f0f0f0; /* Adjust color as needed */ color: #333; /* Adjust text color as needed */ font-weight: bold; }
 
 .copy-btn { background: none; border: none; cursor: pointer; position: relative; color: inherit; padding: 0; font: inherit; }
