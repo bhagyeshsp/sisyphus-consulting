@@ -42,6 +42,7 @@ We take up clients to sketch illustration designs for their needs. These hand-dr
 - Children's books or magazines
 - Illustrated story books
 - Science communication
+- Merchandise
 - Comic books
 - Cartoon stories
 - Infographics
