@@ -40,7 +40,7 @@ We specialize in setting up data systems and online stores for small and medium 
           </div>
 
 <div class="border border-gray p-6 mb-3">
-<h3 class="mb-2">Tech Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.2rem"></h3>
+<h3 class="mb-2">Tech Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.5rem"></h3>
             <p>If a full tech project is not a good fit for you right now, perhaps a one-on-one strategy call would be helpful to you. We'll do <strong>three one-hour calls</strong> over a period of one week. The goal? To address the most pressing challenges and provide strategy, problem-solving and actionable advice.</p>
             <p>This is the fastest and easiest way to benefit from our expertise without hiring us for a full project.</p>
             <a href="{{'/navigator-services/' | relative_url}}" class="text-red no-underline bold">What we will do →</a>
@@ -80,7 +80,7 @@ But a brand? A brand builds the narrative for them. A coherent identity in their
 <a href="{{'/illustration-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process →</a>
 </div>
 <div class="border border-gray p-6 mb-3">
-<h3 class="mb-2">Design Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.2rem"></h3>
+<h3 class="mb-2">Design Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.5rem"></h3>
             <p>If a full design project is not a good fit for you right now, perhaps a one-on-one strategy call would be helpful to you. We'll do <strong>three one-hour calls</strong> over a period of one week. The goal? To address the most pressing challenges and provide strategy, problem-solving and actionable advice.</p>
             <p>This is the fastest and easiest way to benefit from our expertise without hiring us for a full project.</p>
             <a href="{{'/navigator-services/' | relative_url}}" class="text-red no-underline bold">What we will do →</a>
