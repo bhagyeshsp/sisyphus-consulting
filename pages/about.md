@@ -41,9 +41,9 @@ If you think about it, when it comes to clothes, their brand, price or material 
 Having said that, if you're looking for the cheapest service possible, you shouldn't consider us. We are known to provide good returns on investment through our services---and that's what matters economically.
 
 ## What we don't do
-[We don't work for free](/no-free-work/). We don't say yes easily, and that includes declining most meeting requests. We follow a [maker's schedule](https://www.paulgraham.com/makersschedule.html), and our clients understand that by protecting our work time, we are ultimately safeguarding their interests.
+[We don't work for free]({{'/no-free-work/' | relative_url}}) We don't say yes easily, and that includes declining most meeting requests. We follow a [maker's schedule](https://www.paulgraham.com/makersschedule.html), and our clients understand that by protecting our work time, we are ultimately safeguarding their interests.
 
-We don't bid for work or write proposal documents. Once we have had a verbal agreement on the work and fees, we put everything in a document for our shared understanding and reference. That's as much close as it comes to a traditional proposal; the only difference being that it would be an *agreement document* and not a proposal document. We believe that free proposals and bids are some of the flawed and unethical practices of the industry. We want no part in perpetuating them.
+[We don't bid for work or write proposal documents.]({{'/no-free-work#no-bidding-no-project-proposals-and-no-samples' | relative_url}}) Once we have had a verbal agreement on the work and fees, we put everything in a document for our shared understanding and reference. That's as much close as it comes to a traditional proposal; the only difference being that it would be an *agreement document* and not a proposal document. We believe that free proposals and bids are some of the flawed and unethical practices of the industry. We want no part in perpetuating them.
 
 ## Who's responsible for this
 My name is Bhagyesh Pathak and I'm responsible for everything that happens at our consultancy. I kind of look like this sketch.
