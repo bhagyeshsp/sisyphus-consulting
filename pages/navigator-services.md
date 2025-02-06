@@ -26,8 +26,9 @@ The outline:
 ## Limited weekly slots
 You'd have read in [How We Work]({{'/how-we-work#primarily-asynchronous-occasionally-synchronous' | relative_url}}) about our need to work long stretch of hours on client work. That's why we can cater to only a limited number of navigator calls every week.
 
-<div class="flex justify-center mt-2 mb-2">
-            <button class="button h3" onclick="window.location.href='{{'/consultancy/' | relative_url}}'"> Book your Navigator call for ₹ 15,000 →</button>
+<div class="cta-container mt-2 mb-2">
+            <a class="cta" href="{{'/consultancy/' | relative_url}}">Book your Navigator call for ₹ 15,000&nbsp;→ 
+            </a>
 </div>
 
 After payment, we'll reach you with a meeting link and next steps. It would take one business day to get back to you. Be assured that, before we get on a call, we would have done our homework.

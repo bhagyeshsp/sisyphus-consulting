@@ -40,9 +40,10 @@ And we want to provide our thinking behind holding this belief.
 
 The same thing goes for *sample work*. We are unable to produce a fraction of the final [tech solution]({{'/consultancy#technology-services' | relative_url}}) or [design work]({{'/consultancy#design-services' | relative_url}}) that would otherwise happen in their step-4 or 5. We have provided number of [case studies]({{'/case-studies/' | relative_url}}) for our prospective clients to judge our abilities and taste.
 
-# Can we pick your brain?
+# Can we pick your brain instead?
 If you can't afford a full-fledged project with us or it is not right for you at the moment, we get it. We have created Navigator services *just* for you.
 
-<div class="flex justify-center mt-2 mb-2">
-            <button class="button h3" onclick="window.location.href='{{'/navigator-services/' | relative_url}}'"> Check our Navigator services →</button>
+<div class="cta-container mt-2 mb-2">
+            <a class="cta" href="{{'/navigator-services/' | relative_url}}">See our Navigator Services&nbsp;→ 
+            </a>
 </div>
