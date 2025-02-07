@@ -23,7 +23,7 @@ We specialize in setting up data systems and online stores for small and medium 
 <div class="border border-gray p-6 mb-3">
             <h3 class="mb-2">Data System Design</h3>
             <p>We take up this work from scratch. Many businesses rely on Excel sheets or generic software for data storage, analysis and workflows. There is nothing wrong with using them in the early stages. But there comes a time to move beyond Excel. When your intuition tells you that it's time to have a robust, user-friendly way to manage your workflows, we're here to help.</p>
-            <a href="{{'/data-system-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started→</a>
+            <a href="{{'/data-system-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started →</a>
           </div>
 
 <div class="border border-gray p-6 mb-3">
@@ -36,14 +36,14 @@ We specialize in setting up data systems and online stores for small and medium 
 <div class="border border-gray p-6 mb-3">
             <h3 class="mb-2">Online Store Setup</h3>
             <p>You may have an existing offline business or planning an online-only business. Whichever the case, we'll setup the store for you. This includes: registering your domain, designing your store, uploading your products, setting up payments and more. To do this, we exclusively use Shopify platform. Still, if during our discussion, it seems that some other platform better suits your needs, we'll adapt accordingly.</p>
-            <a href="{{'/online-store-setup' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started→</a>
+            <a href="{{'/online-store-setup' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started →</a>
           </div>
 
 <div class="border border-gray p-6 mb-3">
 <h3 class="mb-2">Tech Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.5rem"></h3>
             <p>If a full tech project is not a good fit for you right now, perhaps a one-on-one strategy call would be helpful to you. We'll do <strong>three one-hour calls</strong> over a period of one week. The goal? To address the most pressing challenges and provide strategy, problem-solving and actionable advice.</p>
             <p>This is the fastest and easiest way to benefit from our expertise without hiring us for a full project.</p>
-            <a href="{{'/navigator-services/' | relative_url}}" class="text-red no-underline bold">Get started→</a>
+            <a href="{{'/navigator-services/' | relative_url}}" class="text-red no-underline bold">Get started →</a>
           </div>
 
 # Design Services
@@ -55,7 +55,7 @@ For all design services, our **minimum level of engagement** is ₹ 50,000. Half
 <p>Customers are not as rational as Economists assume. They notice how a business made them feel and act accordingly. A generic business leaves it to the customers to build the narrative on their own—and remain undifferentiated.
 But a brand? A brand builds the narrative for them. A coherent identity in their customers' mind.</p>
 
-<p>When you hire us, we take care of the look-and-feel part of your identity through our rigorous design process.</p> <a href="{{'/brand-identity-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started→</a>
+<p>When you hire us, we take care of the look-and-feel part of your identity through our rigorous design process.</p> <a href="{{'/brand-identity-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started →</a>
 </div>
 <div class="border border-gray p-6 mb-3">
 <h3 class="mb-2">Illustration Design Work</h3>
@@ -77,7 +77,7 @@ But a brand? A brand builds the narrative for them. A coherent identity in their
   </ul>
 </div>
 <p>For all illustration projects, we have a unified design process.</p>
-<a href="{{'/illustration-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started→</a>
+<a href="{{'/illustration-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started →</a>
 </div>
 <div class="border border-gray p-6 mb-3">
 <h3 class="mb-2">Design Navigator &nbsp;<img src="/assets/images/mini-service.gif" class="inline-block" style="height: 1.5rem"></h3>
