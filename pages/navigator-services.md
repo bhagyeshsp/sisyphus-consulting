@@ -5,7 +5,7 @@ permalink: /navigator-services/
 show_in_nav: false
 order: 0
 ---
-A full-project might not be a good fit for many clients. We provide navigator services for such clients. If you're one of such clients, please read on. Want to directly book the call? **[Jump↓]({{'/navigator-services#limited-weekly-slots' | relative_url}})**
+A full-project might not be a good fit for many clients. We provide navigator services for such clients. If you're one of such clients, please read on. Want to directly book the call? **[Jump↓](#limited-weekly-slots)**
 
 ## 3 one-hour calls
 Whether tech or design, our navigator services have the same structure:
