@@ -27,8 +27,12 @@ The outline:
 You'd have read in [How We Work]({{'/how-we-work#primarily-asynchronous-occasionally-synchronous' | relative_url}}) about our need to work long stretch of hours on client work. That's why we can cater to only a limited number of navigator calls every week.
 
 <div class="cta-container mt-2 mb-2">
-            <a class="cta" href="{{'/consultancy/' | relative_url}}">Book your Navigator call for ₹ 15,000&nbsp;→ 
+            <a class="cta" href="https://rzp.io/rzp/sisyphus-navigator/">Book your Navigator call for ₹ 15,000&nbsp;→ 
             </a>
+            <a class="cta-tagline" href="{{'/no-free-work/' | relative_url}}"> Why no free calls?</a>
 </div>
 
-After payment, we'll reach you with a meeting link and next steps. It would take one business day to get back to you. Be assured that, before we get on a call, we would have done our homework.
+
+After payment, we'll email you the next steps for arranging our first call. It would take one business day to get back to you.
+
+Before our call, we'll do our homework. After our last call, we will summarize our discussion in a brief write-up and share with you for your record.
