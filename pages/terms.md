@@ -6,19 +6,21 @@ show_in_nav: false
 order: 0
 ---
 
+**Last Updated: February 7th, 2025**
+
 **Design and Technology Consulting Agreement**  
-This is a Design and Technology Consulting Agreement between **Sisyphus Consulting Pvt. Ltd.** (“we,” “us,” “our”) and any individual, entity, or organization that procures our consulting services (“you” or “your”). If you have any questions about this agreement, you can email **Bhagyesh Pathak at contact@sisyphusconsulting.org**.
+This is a Design and Technology Consulting Agreement between **Sisyphus Consulting Pvt. Ltd.** (“we,” “us,” “our”) and any individual, entity, or organization that procures our consulting services (“you” or “your”). If you have any questions about this agreement, you can email **Bhagyesh Pathak on this id: contact[at]sisyphusconsulting[dot]org**.
 
 ### 1. Acceptance of Terms
 Any work that we do for you is governed by the terms and conditions you’re reading now. If you don’t agree to these terms, we can’t provide you with any services. This agreement is a binding contract between you and **Sisyphus Consulting Pvt. Ltd.**
 
 ### 2. Terms May Change
-We may update the terms and conditions periodically, including our fees. Any changes will be communicated at least 30 days in advance. New terms and/or pricing will become effective on the next renewal date of your services with **Sisyphus Consulting Pvt. Ltd.**
+We may update the terms and conditions periodically, including our fees. Any changes will be communicated at least 30 days in advance. For existing contracts, the new terms and/or pricing will become effective on the next renewal date of your services with **Sisyphus Consulting Pvt. Ltd.**
 
 ### 3. Payment
 Payments can be made via **NEFT, RTGS, IMPS, UPI, or credit card** (any applicable transaction charges for credit cards or international payments will be borne by the client). You agree to keep your billing details up-to-date and are responsible for failing to do so.  
 
-Projects require an upfront payment as specified in the statement of work. Failure to make the payment by the due date will result in cancellation of the project, and a **termination fee of 50% of the agreed amount** will be due within 14 days. All payments are required to reserve our time.
+All of our statements of work have a corresponding due date for our first payment, and expected kickoff date for the project. If you sign a contract to start work with us, but fail to provide your first payment in full by its due date, the project will be terminated and a termination fee of 50% of the payment will be levied, due within 14 days of the project’s kickoff date. All payments exist to reserve our time.
 
 ### 4. Taxes
 You are responsible for paying any applicable **GST (Goods and Services Tax)** or other taxes under Indian laws.
@@ -27,14 +29,8 @@ You are responsible for paying any applicable **GST (Goods and Services Tax)** o
 **No refunds** are available for consulting fees at any point, for any reason.
 
 ### 6. Services
-Services will be agreed upon in writing beforehand. They may include but are not limited to:  
-- Technical assessments
-- Design and UX roadmaps
-- Prototyping and wireframing
-- Custom software development
-- Usability tests and user interviews
-
-Deliverables will be specified in the scope of work.
+Services will be agreed upon in writing beforehand and may include but are not limited to:  
+[data system design]({{'/data-system-design-process' | relative_url}}) (where we help you setup data system for your internal workflows), [AI integration]({{'/consultancy#meaningful-ai-integration' | relative_url}}) (where we help you integrate AI in your system), [online store setup]({{'/online-store-setup' | relative_url}}) (where we help you setup an online commercial store to sell products and services), [brand identity design]({{'/brand-identity-design-process' | relative_url}}) (where we design visual brand guidelines for your business), and/or [illustrations design]({{'/illustration-design-process' | relative_url}}) (where we create digital illustrations for your business).
 
 ### 7. Termination
 Either party may terminate this agreement by giving **14 days' written notice**. On termination:  
@@ -42,13 +38,13 @@ Either party may terminate this agreement by giving **14 days' written notice**.
 - If termination is initiated by you, **50% of the remaining fees** for the project period will become due within 14 days.  
 
 ### 8. No Guarantee of Results
-We do not guarantee any specific outcomes (e.g., leads, revenue, or performance metrics) from our services. You are responsible for implementing and acting on our recommendations. **Sisyphus Consulting Pvt. Ltd.** is not liable for any losses resulting from using or failing to use our recommendations.
+We do not guarantee any specific outcomes (e.g., business efficiency, leads, revenue, or performance metrics) from our services. You are responsible for implementing and acting on our recommendations. **Sisyphus Consulting Pvt. Ltd.** is not liable for any losses resulting from using or failing to use our recommendations.
 
 ### 9. Content Ownership
 You will own all deliverables created specifically for your project. However, we may incorporate reusable code, libraries, or templates into your project, for which we grant you a **non-exclusive, perpetual license** to use. This does not extend to rights over our proprietary tools or methodologies.
 
 ### 10. Limitation on Liability
-Our liability is limited to correcting the deliverables or refunding the fees you’ve paid to us, subject to a maximum of the fees paid. We are not liable for **indirect, incidental, special, or consequential damages**, including loss of profits.
+Our liability is limited to correcting the deliverables. If correction is not possible or impractical, then our liability is limited to a refund any fees you paid to us related to that specific deliverable in question, subject to a maximum of the fees paid. We are not liable for **indirect, incidental, special, or consequential damages**, including loss of profits.
 
 ### 11. Indemnification
 You agree to indemnify us against any claims, including intellectual property disputes, arising from materials or data you provide.
@@ -61,8 +57,8 @@ You authorize us to:
 If you wish to modify these publicity rights, it must be agreed upon in writing before the project begins.
 
 ### 13. Business Hours
-Our business hours are **10:00 AM to 6:00 PM IST, Monday to Friday**.  
-We observe the following holidays: **Indian national holidays, Diwali, Holi, and other region-specific holidays.**  
+Our business hours are **09:30 AM to 6:30 PM IST, Monday to Friday**.  
+We observe the major holidays: **Indian national holidays, Diwali, Holi, and other region-specific holidays.**  
 
 Outside business hours, we may not be available for communication unless otherwise agreed upon.
 
@@ -96,8 +92,8 @@ We are not liable for delays or failures caused by events beyond our control, su
 ### 23. Governing Law and Jurisdiction
 This agreement is governed by the laws of **India**. Disputes will be resolved in the courts of **Ahmedabad, Gujarat.**
 
-### 24. Entire Agreement
-This document constitutes the entire agreement between you and **Sisyphus Consulting Pvt. Ltd.**, superseding any prior agreements.
-
-### 25. Headings
+### 24. Headings
 Headings are for convenience only and do not affect the interpretation of this agreement.
+
+### 25. Entire Agreement
+This document constitutes the entire agreement between you and **Sisyphus Consulting Pvt. Ltd.**, superseding any prior agreements.
