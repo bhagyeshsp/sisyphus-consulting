@@ -478,11 +478,13 @@ justify-content: center;
 
 }
 
-// cta configuration
+// cta configuration: cta-container, cta, cta-tagline
 .cta-container {
   display: flex;
   justify-content: center;
-
+  flex-direction: column;
+  align-items: center;
+  
   a {
   display: inline-block;
   text-decoration: none;
@@ -508,6 +510,18 @@ justify-content: center;
   &:hover {
     background: $color-text-accent;
   }
+}
+
+.cta-tagline {
+  display: inline-block;
+  margin: 1rem auto;
+  text-decoration: underline !important;
+  font-size: 1rem;
+  font-style: italic;
+  
+  &:hover {
+    color: $color-text-accent !important;
+    }
 }
 
 // consultancy page cards styles
