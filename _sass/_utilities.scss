@@ -481,7 +481,6 @@ justify-content: center;
 // cta configuration: cta-container, cta, cta-tagline
 .cta-container {
   display: flex;
-  justify-content: center;
   flex-direction: column;
   align-items: center;
   
@@ -497,9 +496,10 @@ justify-content: center;
 
 .cta {
   display: inline-block;
-  padding: 0.2em 0.5em;
+  padding: 0.5em 0.5em;
   width: fit-content;
   text-decoration: none;
+  text-align: center;
   border: none;
   border-radius: 12px;
   background-color: #333 ; /* Adjust color as needed */
@@ -510,6 +510,22 @@ justify-content: center;
   &:hover {
     background: $color-text-accent;
   }
+
+  .cta-inner-tagline {
+    display: inline-block;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: normal;
+    
+    &:hover {
+      color: #f0f0f0;
+    }
+  }
+
+  p {
+    margin: 0;
+  }
+
 }
 
 .cta-tagline {
