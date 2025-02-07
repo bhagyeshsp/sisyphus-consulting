@@ -369,12 +369,15 @@ white-space: normal; /* Allow wrapping of text */ overflow: visible; /* Prevent 
 .button { display: inline-block; padding: 0.2em 0.5em; border: none; border-radius: 12px; background-color: #333; /* Adjust color as needed */ color: #f0f0f0; /* Adjust text color as needed */ font-weight: bold; }
 .button:hover { background: #E74727; }
 
-.cta-container { display: flex; justify-content: center; }
+.cta-container { display: flex; justify-content: center; flex-direction: column; align-items: center; }
 .cta-container a { display: inline-block; text-decoration: none; }
 .cta-container a:hover { color: #f0f0f0; }
 
 .cta { display: inline-block; padding: 0.2em 0.5em; width: fit-content; text-decoration: none; border: none; border-radius: 12px; background-color: #333; /* Adjust color as needed */ color: #f0f0f0; /* Adjust text color as needed */ font-weight: bold; font-size: 24px; }
 .cta:hover { background: #E74727; }
+
+.cta-tagline { display: inline-block; margin: 1rem auto; text-decoration: underline !important; font-size: 1rem; font-style: italic; }
+.cta-tagline:hover { color: #E74727 !important; }
 
 .p-6 { padding: 1.5rem; }
 
