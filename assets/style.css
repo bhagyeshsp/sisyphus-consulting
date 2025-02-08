@@ -382,6 +382,8 @@ white-space: normal; /* Allow wrapping of text */ overflow: visible; /* Prevent 
 .cta-tagline { display: inline-block; margin: 1rem auto; text-decoration: underline !important; font-size: 1rem; font-style: italic; }
 .cta-tagline:hover { color: #E74727 !important; }
 
+.ps { font-size: 0.9rem !important; font-weight: lighter; font-style: italic; }
+
 .p-6 { padding: 1.5rem; }
 
 .border { border: 1px solid; }
