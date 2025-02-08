@@ -26,9 +26,10 @@ You'll notice that there are six main tools visible in this particular project: 
   <p>A client's workspace in Basecamp</p>
 </div>
 
-- **Discussions:** Traditionally, people use emails to discuss things. In the last decade, those emails transformed into *email threads*...and there is no way out of this web of threads. Not only we get entangled with 100 emails in a thread but also with time, emails get buried and we lose the whole thread.
+<ul><li><strong>Discussions:</strong> Traditionally, people use emails to discuss things. In the last decade, those emails transformed into <em>email threads</em>...and there is no way out of this web of threads. Not only we get entangled with 100 emails in a thread but also with time, emails get buried and we lose the whole thread.</li></ul>
 
-    To avoid all these, we use Discussions tool in Basecamp. Just create a topic, write a note, add images, links and open it for relevant people to discuss. Simple. Everything stays in the same place.
+<p class="ml-3">To avoid all these, we use Discussions tool in Basecamp. Just create a topic, write a note, add images, links and open it for relevant people to discuss. Simple. Everything stays in the same place.</p>
+
 - **To-dos:** We use this tool extensively. For every task, we create dedicated to-do lists within the project. It guides our work and provides an overall idea to the client about how we are planning and where we are in our execution.
 - **Docs & Files:** This is where we keep our all documents and files related to this project, i.e. this client. Organized in subfolders and ready to refer at a moment's notice. We also link our Google Drive folder in this tool, so that anyone can access them through this tool.
 - **Schedule:** Since we use Basecamp as our main workspace, any meeting or to-do's deadline is visible via its Schedule tool. This allows clients to cut through all the noise of their Google Calendars and keep a tab on the meetings or to-dos that matter.
@@ -52,8 +53,18 @@ Our work is creative. We need a big, undisturbed chunk of time to ourselves duri
 
 This work style automatically eliminates usage of instant messaging tools and encourages planning and full-context provision from everyone.
 
+### Something that works is better than many things that don't work
+Whether it is developing software or creating a design document, it almost always pays to focus one slice at a time. We group relevant tasks in their simplest possible, most-common-sense-making forms and carry out our work. This approach is in stark contrast to what most firms in our business do: treating each project as a single piece of pie and biting it from all directions at the same time. No wonder, nothing gets done. At least not in the prescribed budget and timeline.
+
+Through our approach, after each iteration we have something that works than many things that don't work. (Well-articulated by Ryan Singer in [Shape Up](https://basecamp.com/shapeup/3.2-chapter-11))
+
+<div class="image-container">
+  <img src="/assets/images/Nothing_works.png" alt="Nothing works">
+  <img src="/assets/images/Something_works.png" alt="Something works">
+</div>
+
 ## How we share project progress
-Our work is always on-going and the client can see everything that is happening in the project. But still, not everyone gets time to keep a tab on the work progress. So, we provide a comprehensive project update once in a while using Basecamp's needle feature.
+Once on-boarded on Basecamp, the client can see everything *(okay, not exactly everything, we keep work-in-progress things to ourselves until they're ready for the client's eyes)* that is happening in the project. We understand that not everyone has time to keep a tab on the work progress. So, we provide a comprehensive project update once in a while using Basecamp's needle feature.
 
 For example, look at this progress communication where everything is "on track".
 
