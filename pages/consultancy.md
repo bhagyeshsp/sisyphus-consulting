@@ -10,7 +10,7 @@ What makes our consultancy services different?
 
 For starters, we are not jack of all trades. We have a specific vision and expertise about a few things and we want to keep capitalizing on it.
 _Second_, we spend a lot of time and effort to understand our clients' business problems and context. This makes our thinking **the highest value product** we can provide to our clients.
-And _third_, our work is consultative. Which means we directly work with executives and business owners to define strategy and implement it.
+And _third_, our work is consultative. Which means we directly work with executives and business owners to define strategy and implement it—[through a simple, collaborative work setup. ]({{'/how-we-work' | relative_url}})
 
 This approach is different than other firms, where a client self-diagnoses their problems, self-prescribes a strategy and the firm takes the order.
 
