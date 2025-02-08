@@ -63,4 +63,19 @@ You would have realized that this setup is unique in itself because:
 **Why It Matters**  
 This project shows how meaningful AI integration can transform traditional processes. It wasn’t about using AI for the sake of it—it was about embedding AI into the workflow in a way that felt natural and valuable.
 
-If you’re considering how AI can enhance your business processes, we can help you uncover opportunities for impactful integration. Take a closer look at our approach to meaningful AI adoption.
+**Need to integrate AI in your work?**
+It is difficult to create a data system on your own. What works for a fortune 500 company may not work for your business. Each business is unique.
+That is what we do. We understand your processes, suggest changes and create a *meaningful AI-integration for you*.
+
+Get started with us:
+
+{% include general-cta.html %}
+
+This service is governed by our [terms and conditions]({{'/terms/' | relative_url}}), you may want to have a look at it once.
+
+Do you still have questions? That's understandable.
+<a onclick="copyEmail()" class="copy-btn">
+  Write to us!<span class="tooltip">Click to copy email</span>
+</a>Thanks for all the support, have a great day!
+
+<p class="ps">PS: Not looking for a complete AI-integration service? See our <a href="{{'/navigator-services/' | relative_url}}">Navigator Services</a> instead, they might be more useful to you.</p>

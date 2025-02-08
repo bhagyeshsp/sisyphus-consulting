@@ -39,10 +39,13 @@ Finally, we went through several cycles of development and delivered Sachet Foun
 It is difficult to create a data system on your own. What works for a fortune 500 company may not work for your business. Each business is unique.
 That is what we do. We understand your processes, suggest changes and create data system that works for *you*.
 
-<div class="flex justify-center mt-2 mb-2">
-<button class="button h3" onclick="window.location.href='/data-system-design-process/'"> See how we help you do it → </button>
+See how we do it and get started with us:
+
+<div class="cta-container mt-2 mb-2">
+    <a class="cta" href="{{'/data-system-design-process/' | relative_url}}">Our process and getting started&nbsp;→
+    </a>            
 </div>
 
-While you check out other case studies and our processes, I want to invite you to join our free email notes.
+While you check out other case studies and our processes, I want to invite you to join our semi-regular free email letters.
 
 {% include newsletter.html %}
