@@ -315,6 +315,7 @@ DEPENDENCIES
   github-pages
   jekyll
   jekyll-livereload
+  jekyll-seo-tag
   jekyll-sitemap
 
 BUNDLED WITH
