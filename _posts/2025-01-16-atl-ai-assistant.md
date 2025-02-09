@@ -63,4 +63,4 @@ You would have realized that this setup is unique in itself because:
 **Why It Matters**  
 This project shows how meaningful AI integration can transform traditional processes. It wasn’t about using AI for the sake of it—it was about embedding AI into the workflow in a way that felt natural and valuable.
 
-{% cta-ai.html %}
+{% include cta-ai.html %}
