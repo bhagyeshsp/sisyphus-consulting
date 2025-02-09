@@ -10,12 +10,12 @@
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ "{{ site.title }}" }}, {{ "{{ site.github_repo }}" }}, and so on.
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ "{{ site.myvariable }}" }}.
+# in the templates via {{ site.myvariable }}.
 title: Sisyphus Consulting
 tagline: Tech and Design solutions for businesses
-description: We specialize in a few tech and design services: data system design, meaningful AI integration, online store setup, illustration design and brand identity design services.
+description: "We specialize in a few tech and design services: data system design, meaningful AI integration, online store setup, illustration design and brand identity design services."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sisyphusconsulting.org" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/my-favicon/web-app-manifest-512x512.png"
