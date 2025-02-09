@@ -70,3 +70,5 @@ Let's hope that we get out of this rut of choosing between "to AI or not to AI" 
 [^5]: To be clear, I'm not implying that choosing "not to do AI" is equal to "not making progress or not serving our customers." When the choice of "not to do AI" is backed with reason in the immediate context, it is appreciable decision.
 
 [^6]: That reminds me of this latest research paper on how after 1986 Chernobyl Nuclear Disaster, the global regulations led by the US substantially increased the cost of Nuclear energy. New Nuclear Power Plants (NPPs) stagnated. Thanks to the global oil lobbyists and targeted propaganda to get the public on their side. Nuclear Power remains the cleanest and most reliable power source till date. But we know the public opinion has been changed through years of false narrative. Find the paper here: https://conference.nber.org/conf_papers/f205791.pdf
+
+{% cta-ai.html %}
