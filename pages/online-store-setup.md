@@ -45,7 +45,7 @@ Once the store is setup and you have used it to your satisfaction, we begin the 
 
 Want us to setup online store for you? Apply here and we'll be in touch with the next steps in a business day:
 
-{% include general-cta.html %}
+{% include cta-general.html %}
 
 <!-- <blockquote>
 <p>"In our work at Snehalaya CCI, <strong>Bhagyesh's impact</strong> went beyond creating just another IT solution. <strong>He invested time</strong> to understand the unique challenges of child development before designing a system that effectively monitors each child's journey toward independence. What stands out is his <strong>pragmatic approach</strong>—using simple, accessible technology tools rather than complex solutions, while fully meeting our needs. [...] <strong>truly serves our mission</strong> of nurturing self-reliant individuals."</p>
