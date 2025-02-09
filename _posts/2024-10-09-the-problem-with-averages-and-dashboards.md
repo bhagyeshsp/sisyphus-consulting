@@ -70,3 +70,5 @@ The person will make necessary the decision depending on this information.
 </div>
 
 Averages can mislead, whether in rivers or dashboards. They hide extremes, skew decisions, and cloud judgment. The solution? Empower people with detailed, personalized data—not just averages. Dive deeper, design smarter, and make decisions that reflect reality, not illusions.
+
+{% include cta-data-system.html %}

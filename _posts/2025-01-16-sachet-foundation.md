@@ -35,17 +35,4 @@ Next, we gathered all the necessary data points that were `must-haves` and `good
 
 Finally, we went through several cycles of development and delivered Sachet Foundation's data system. This system allowed their staff and new hires to think in terms of designated processes---something that is by design extremely difficult in Excel sheets.
 
-## Need to create an efficient data system?
-It is difficult to create a data system on your own. What works for a fortune 500 company may not work for your business. Each business is unique.
-That is what we do. We understand your processes, suggest changes and create data system that works for *you*.
-
-See how we do it and get started with us:
-
-<div class="cta-container mt-2 mb-2">
-    <a class="cta" href="{{'/data-system-design-process/' | relative_url}}">Our process and getting started&nbsp;→
-    </a>            
-</div>
-
-While you check out other case studies and our processes, I want to invite you to join our semi-regular free email letters.
-
-{% include newsletter.html %}
+{% include cta-data-system.html %}

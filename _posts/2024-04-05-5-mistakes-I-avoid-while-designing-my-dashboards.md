@@ -78,3 +78,5 @@ There are more ways to structure bad databases than there is to structure good d
 The point is that dashboards are everywhere, but not all are effective. Many fall into traps: being seen as cure-alls, catering only to managers, or creating gaps between data and decisions.
 
 We should treat dashboards as a skepticle compass, not an engine.
+
+{% include cta-data-system.html %}
