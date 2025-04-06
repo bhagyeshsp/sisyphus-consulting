@@ -53,7 +53,7 @@ Want us to setup online store for you? Apply here and we'll be in touch with the
 <p class="flex justify-end">—Mahesh Rasal, Co-founder,&nbsp;<a href="{% post_url 2025-01-16-sachet-foundation %}"> Sachet Foundation</a></p>
 </blockquote> -->
 
-This service is governed by our [terms and conditions]({{'/terms/' | relative_url}}), you may want to have a look at it once.
+This service is governed by our [terms and conditions]({{'/terms/' | relative_url}}), you may want to have a look at them.
 
 Do you still have questions? That's understandable.
 <a onclick="copyEmail()" class="copy-btn">
