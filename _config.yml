@@ -44,3 +44,6 @@ plugins:
 future: false          # Allows future dated posts
 strict_front_matter: true  # Ensures front matter is properly formatted
 incremental: false    # Disable incremental building
+
+exclude:
+  - .specstory/  # Exclude the .specstory/ directory from the build process
