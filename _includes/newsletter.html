@@ -1,4 +1,44 @@
-  <div class="flex justify-center items-center">
-    <iframe src="https://sisyphusnotes.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" title="Sisyphus Notes Newsletter Subscription Form"></iframe> <!-- Added title for accessibility -->
+  <!-- Original embed from substack, but takes a lot of load time -->
+    <!-- <div class="flex justify-center items-center"> -->
+      <!-- <iframe src="https://sisyphusnotes.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no" title="Sisyphus Notes Newsletter Subscription Form"></iframe> -->
+    <!-- </div> -->
+
+<!-- Improved code for deferred load of the newsletter form -->
+
+  <div class="flex justify-center items-center" style="min-height: 320px;">
+    <div id="substack-embed-placeholder" style="width:480px; height:320px; border:1px solid #EEE; background:white; display: flex; justify-content: center; align-items: center;">
+      <span>Loading newsletter…</span>
+    </div>
   </div>
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const observer = new IntersectionObserver(
+        function (entries, observer) {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const iframe = document.createElement("iframe");
+              iframe.src = "https://sisyphusnotes.substack.com/embed";
+              iframe.width = "480";
+              iframe.height = "320";
+              iframe.style.border = "1px solid #EEE";
+              iframe.style.background = "white";
+              iframe.title = "Sisyphus Notes Newsletter Subscription Form";
+              iframe.frameBorder = "0";
+              iframe.scrolling = "no";
+  
+              const placeholder = document.getElementById("substack-embed-placeholder");
+              placeholder.replaceWith(iframe);
+              observer.disconnect();
+            }
+          });
+        },
+        { threshold: 0.1 }
+      );
+  
+      const target = document.getElementById("substack-embed-placeholder");
+      observer.observe(target);
+    });
+  </script>
+  
   
