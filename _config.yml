@@ -46,4 +46,16 @@ strict_front_matter: true  # Ensures front matter is properly formatted
 incremental: false    # Disable incremental building
 
 exclude:
-  - .specstory/  # Exclude the .specstory/ directory from the build process
+  - .specstory/         # Exclude the .specstory/ directory from the build process
+  - .sass-cache/        # Exclude the .sass-cache/ directory
+  - .jekyll-cache/      # Exclude the .jekyll-cache/ directory
+  - gemfiles/           # Exclude the gemfiles directory
+  - Gemfile             # Exclude the Gemfile
+  - Gemfile.lock        # Exclude the Gemfile.lock
+  - node_modules/       # Exclude the node_modules directory
+  - vendor/bundle/      # Exclude the vendor/bundle directory
+  - vendor/cache/       # Exclude the vendor/cache directory
+  - vendor/gems/        # Exclude the vendor/gems directory
+  - vendor/ruby/        # Exclude the vendor/ruby directory
+  - README.md           # Exclude the README.md file
+  - LICENSE             # Exclude the LICENSE file
