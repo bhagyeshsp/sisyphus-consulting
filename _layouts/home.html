@@ -8,7 +8,6 @@
     <div>
 
       <header class="header-background">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"> <!-- Fetches the audio player icon for pronounciation -->
         <div class="border-bottom-thick header-border flex justify-end items-center sm-width-full">
           <ul class="list-reset py-1 mr-2 header-text font-smoothing flex">
             {% assign sorted_pages = site.pages | sort: "order" %}
@@ -26,7 +25,16 @@
 
         <div class="header-container items-center px-2 py-3">
           <div class="flex justify-center items-center">
-            <img src="/assets/images/sisyphus_logo.png" alt="sisyphus_logo" class="mr-1 mt-3" style="max-width: 70%; max-height: 90%;">
+            <link rel="preload" as="image" href="/assets/images/sisyphus_logo.webp">
+            <img
+                src="/assets/images/sisyphus_logo.webp?v=1.0.1"
+                alt="sisyphus_logo"
+                width="500" height="500"
+                class="mr-1 mt-3"
+                style="max-width: 70%; height: auto;"
+              > 
+              <!-- added versioning for effective caching by Github server -->
+              <!-- the width and height just sets the aspect ratio, not the size. This is done to reduce the load times as learned from the Lighthouse report. -->
           </div>
           <div class="flex flex-column header-text">
             <h1 class="h0 mt-3 ml-2 header-title">{{ site.title }}</h1>
@@ -50,7 +58,9 @@
               onclick="pronounceSisyphus()"
               style="cursor: pointer; font-size: 14px; color: #172af8"
             >
-              (si-sə-fəs <i class="fa-sharp fa-solid fa-volume-high"> )</i>
+              (si-sə-fəs <svg xmlns="http://www.w3.org/2000/svg" fill="solid" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" width="14px" height="14px">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M19.114 5.636a9 9 0 0 1 0 12.728M16.463 8.288a5.25 5.25 0 0 1 0 7.424M6.75 8.25l4.72-4.72a.75.75 0 0 1 1.28.53v15.88a.75.75 0 0 1-1.28.53l-4.72-4.72H4.51c-.88 0-1.704-.507-1.938-1.354A9.009 9.009 0 0 1 2.25 12c0-.83.112-1.633.322-2.396C2.806 8.756 3.63 8.25 4.51 8.25H6.75Z" />
+              </svg>)
             </span>
           </p>
         

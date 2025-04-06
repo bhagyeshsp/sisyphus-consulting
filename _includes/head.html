@@ -9,6 +9,10 @@
 
   {% assign user_url = site.url | append: site.baseurl %}
   {% assign full_base_url = user_url | default: site.github.url %}
+  <!-- Add preconnect and prefetch to reduce load times as suggested in Lighthouse report. -->
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+
   <link rel="stylesheet" href="{{ "/assets/style.css" | prepend: full_base_url }}">
 
   <link rel="icon" type="image/png" href="{{ "/assets/my-favicon/favicon-96x96.png" | prepend: full_base_url }}" sizes="96x96" />
@@ -18,6 +22,4 @@
   <link rel="manifest" href="{{ "/assets/my-favicon/site.webmanifest" | prepend: full_base_url }}" />
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
 </head>
