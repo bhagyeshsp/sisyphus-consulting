@@ -21,6 +21,12 @@ Now, let's talk about our consultancy services. We provide services in Technolog
 We specialize in setting up data systems and online stores for small and medium sized businesses.
 
 <div class="border border-gray p-6 mb-3">
+            <h3 class="mb-2">Website Development</h3>
+            <p>We develop lightning-fast, responsive and zero-maintenance websites for our clients. Zero monthly rent for servers and platform lock-ins. You own your site. Your website should act as your asset, not as liability. Simple.</p>
+            <a href="{{'/web-development/' | relative_url}}" class="text-red no-underline bold">More info & get started →</a>
+          </div>
+
+<div class="border border-gray p-6 mb-3">
             <h3 class="mb-2">Data System Design</h3>
             <p>We take up this work from scratch. Many businesses rely on Excel sheets or generic software for data storage, analysis and workflows. There is nothing wrong with using them in the early stages. But there comes a time to move beyond Excel. When your intuition tells you that it's time to have a robust, user-friendly way to manage your workflows, we're here to help.</p>
             <a href="{{'/data-system-design-process/' | relative_url}}" class="text-red no-underline bold">Learn about our process & get started →</a>

@@ -18,7 +18,7 @@ The outline:
 - Reserve your slot for the session
 - After payment, we'll be in touch with you for the next steps
 - Share your context in advance.
-    - For **tech-related** session, you may want our advisory on matter such as: database schema review, data flow diagram, workflow review, AI tools usage, automation suggestion, UX/UI review, store optimization, product catalogue review, etc. We will require full context to help you best.
+    - For **tech-related** session, you may want our advisory on matter such as: website performance issues, slow site diagnosis, cost-saving platform switch, simple e-commerce setup, lead collection strategy, analytics review, automation suggestions, workflow review, UX/UI feedback, database schema review, data flow diagrams, product catalogue optimization, or choosing the right tools for your needs.
     - For **design-related** session, you may need us to advise on things such as: mood boards, logo concepts, metaphor/iconography, colour palette, typography, sketch critique, book design-related questions etc. We will require assets and documents related to them.
 - We'll strategize, solve and advise over three hyper-focused one hour calls. The calls would be **spread across a week** to give and take time to think through things and implementation at hand.
 - In the end, you'll leave with **clarity, confidence and plan** to execute your ideas
@@ -27,7 +27,7 @@ The outline:
 You'd have read in [How We Work]({{'/how-we-work#primarily-asynchronous-occasionally-synchronous' | relative_url}}) about our need to focus for long stretch of hours on client work. That's why we can cater to only a limited number of navigator sessions every week.
 
 <div class="cta-container mt-2 mb-2">
-            <a class="cta" href="https://rzp.io/rzp/sisyphus-navigator/">Book your Navigator session for ₹ 15,000&nbsp;→ 
+            <a class="cta" href="https://rzp.io/rzp/sisyphus-navigator/" target="_blank">Book your Navigator session for ₹ 15,000&nbsp;→ 
             </a>
             <a class="cta-tagline" href="{{'/no-free-work/' | relative_url}}"> Why no free sessions?</a>
 </div>
