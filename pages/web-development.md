@@ -17,7 +17,7 @@ What we use:
 
 Feels faaaast, doesn't it?
 
-Great, that's what we are talking about.
+That's what we are talking about.
 
 ## What this means for you as a business-owner:
 - Zero monthly hosting bills
@@ -67,12 +67,20 @@ Most of businesses leave you on your own once they've developed your website.
 We don't do that.
 Our website development service includes a **complementary two-month maintenance contract**. Since we developed your site, we stand by you to see how the site performs. During that time, if something is broken, we fix it. Without you needing to spend extra money.
 
+**Interesting idea:** What if you *never* want to make a change to your website? Great, it will keep running, good as new: no maintenance, no intervention, for years. We call it **fire-and-forget setup**.
+
 ## Website should act as an asset
 It is like owning a good real-estate property. Sure, you need to invest first but expending big monies month-after-month is not desirable.
 
 Want us to develop a website for you? Apply here and we'll be in touch with the next steps in a business day:
 
-{% include cta-general.html %}
+<div class="cta-container mt-2 mb-2">
+
+  {% include cta-general.html %}
+
+  <p style="text-align: center; font-size: 1rem; font-style: italic;">Projects like this generally start at around ₹50,000.</p>
+
+</div>
 
 This service is governed by our [terms and conditions]({{'/terms/' | relative_url}}), you may want to have a look at them.
 
